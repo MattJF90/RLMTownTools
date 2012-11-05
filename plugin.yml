@@ -1,0 +1,9 @@
+name: RLMTownTools
+main: com.rlminecraft.RLMTownTools.RLMTownTools
+version: 1.0
+author: Matt_Fielding
+depend: [Towny]
+
+commands:
+  lot:
+    description: This controls all plot-based addons.
